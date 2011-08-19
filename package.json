@@ -1,0 +1,13 @@
+{ 
+  "name": "zlog",
+  "version": "1.0.0",
+  "description": "A simple logging tool which supports logging color, logging timestamp, logging level and logging position",
+  "engine": [ "node >=0.4.0" ],
+  "author": "zTrix <i@ztrix.me>",
+  "repository":
+  { 
+    "type" : "git",
+    "url" : "git://github.com/zTrix/node-zlog.git"
+  },
+  "main": "zlog.js"
+}
